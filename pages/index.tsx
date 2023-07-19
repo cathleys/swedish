@@ -39,9 +39,7 @@ export default function Home() {
         <div className="sub-nav">
           <ul className="ul">
             {navLinks.map((li, index) => (
-              <li key={index}>
-                <a href="/">{li?.text}</a>
-              </li>
+              <li key={index}>{li?.text}</li>
             ))}
           </ul>
           <Search />
