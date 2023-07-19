@@ -1,4 +1,3 @@
-import "@fontsource/inter";
 import type { AppProps } from "next/app";
 import "@/styles/globals.style.css";
 export default function App({ Component, pageProps }: AppProps) {
