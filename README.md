@@ -1,7 +1,7 @@
 Hello, The Swedish Times team! I only thought of having a search functionality that populates data based on typed keywords.
 This is just a demonstration purpose, a barebone to show the one I believe will enhance the UI exp. of the website. But overall, Your website is really fast and optimized!
 
-Visit the live demo site: 
+Visit the live demo site: [swedish times demo](https://swedish-times.vercel.app/)
 ## Getting Started
 
 First, run the development server:
