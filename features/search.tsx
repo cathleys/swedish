@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { data } from "./data/data";
-import { AiOutlineEnter } from "react-icons/ai";
+
 type SearchProps = {
   title: string;
 };
